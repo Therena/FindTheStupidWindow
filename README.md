@@ -1,6 +1,6 @@
 # Find The Stupid Window
 
-Windows API hooking project to log all the windows / UIs with the exact timestamp then they are opened.
+Windows API hooking project to log all the windows / UIs with the exact timestamp when they are opened.
 
 ## Why someone would do this?
 Maybe a stupid story but it happend exactly like this...
