@@ -2,6 +2,8 @@
 
 Windows API hooking project to log all the windows / UIs with the exact timestamp when they are opened.
 
+<img src="Screenshot.png" width="400" /><br/>
+
 ## Why someone would do this?
 Maybe a stupid story but it happend exactly like this...
 I was working on my PC and from time to time there was a window poping up.
