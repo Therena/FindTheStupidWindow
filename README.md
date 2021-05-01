@@ -1,5 +1,7 @@
 # Find The Stupid Window
 
+![CodeQL](https://github.com/Therena/FindTheStupidWindow/actions/workflows/codeql-analysis.yml/badge.svg)
+
 Windows API hooking project to log all the windows / UIs with the exact timestamp when they are opened.
 
 <img src="Screenshot.PNG" width="400" /><br/>
